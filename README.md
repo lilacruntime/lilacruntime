@@ -39,16 +39,16 @@ My projects range from **C# applications and game plugins** to **Rust terminal t
 I care about practical problem-solving, maintainable software and interfaces that feel good to use.[^sparkle]
 
 > [!NOTE]
-> This is a new home for my development work. I'm gradually moving selected projects here, reviewing their code and improving their documentation. The descriptions below are a preview, not links to unfinished repositories.
+> This is a new home for my development work. I'm gradually moving selected projects here and improving their documentation. Published projects are linked below; more work is on the way.
 
 ### ✧ selected work
 
 | Project | Stack | The interesting bit |
 | :--- | :--- | :--- |
-| **AetherStylist** *(prototype)* | C# · .NET · Dalamud | An FFXIV outfit recommendation engine using weighted scoring and beam search, with a separately testable core. |
+| [**AetherStylist**](https://github.com/lilacruntime/AetherStylist) *(prototype)* | C# · .NET · Dalamud | An FFXIV outfit recommendation engine using weighted scoring and beam search, with a separately testable core. |
 | **CityBuilder** | Python · PySide2 · Houdini | Artist-facing procedural city generation, with configurable layouts and reusable JSON presets. |
-| **Linux desktop / custom island** | QML · Python · Linux | A responsive desktop interface with media, system monitoring and dynamic colour theming. |
-| **wallpaper-picker** | Rust · Ratatui | A terminal UI for previewing wallpapers and applying themes through configurable backends. |
+| [**lilac-doots / custom island**](https://github.com/lilacruntime/lilac-doots) | QML · Python · Linux | A responsive desktop interface with media, system monitoring and dynamic colour theming. |
+| [**wallpaper-picker**](https://github.com/lilacruntime/wallpaper-picker) | Rust · Ratatui | A terminal UI for previewing wallpapers and applying themes through configurable backends. |
 | **ScatterTool** | Python · PySide2 · Houdini | A custom UI for placing and scattering objects across a 3D scene. |
 
 <details>
